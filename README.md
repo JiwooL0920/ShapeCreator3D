@@ -1,4 +1,4 @@
-# Web tool for visualizing 3D Elm Graphics Framework
+# Web tool for visualizing 3D Elm Graphics Library
 ![](./ShapeCreator.jpg)
 ![](./ShapeCreator2.jpg)
 ![](./ShapeCreator3.jpg)
